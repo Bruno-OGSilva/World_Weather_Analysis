@@ -26,6 +26,8 @@ This project was fully developed in Python, code can be checked at the following
 
 ## Results
 
+![](Vacation_Search/WeatherPy_vacation_map.png)
+
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
 
 ![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
