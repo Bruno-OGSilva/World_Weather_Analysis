@@ -15,7 +15,9 @@ Analysis key deliverables:
 This project was fully developed in Python, code can be checked at the following links:
 
 [Weather_Database.ipynb](Weather_Database/Weather_Database.ipynb)
+
 [Vacation_Search.ipynb](Vacation_Search/Vacation_Search.ipynb)
+
 [Vacation_Itinerary.ipynb](Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
 ## Resources
